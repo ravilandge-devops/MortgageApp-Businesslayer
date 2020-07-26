@@ -1,0 +1,82 @@
+{"properties": [
+  {
+    "name": "getAllMortgage",
+    "type": "java.lang.String",
+    "description": "A description for 'getAllMortgage'"
+  },
+  {
+    "name": "setMortgage",
+    "type": "java.lang.String",
+    "description": "A description for 'setMortgage'"
+  },
+  {
+    "name": "addMortgage",
+    "type": "java.lang.String",
+    "description": "A description for 'addMortgage'"
+  },
+  {
+    "name": "addMortgageUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'addMortgageUrl'"
+  },
+  {
+    "name": "setMortgageUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'setMortgageUrl'"
+  },
+  {
+    "name": "setMortgageUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'setMortgageUrl'"
+  },
+  {
+    "name": "setMortgageUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'setMortgageUrl'"
+  },
+  {
+    "name": "getAllMortgageUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'getAllMortgageUrl'"
+  },
+  {
+    "name": "sortByOfferDate",
+    "type": "java.lang.String",
+    "description": "A description for 'sortByOfferDate'"
+  },
+  {
+    "name": "sortByOfferDate",
+    "type": "java.lang.String",
+    "description": "A description for 'sortByOfferDate'"
+  },
+  {
+    "name": "sortByOfferDate",
+    "type": "java.lang.String",
+    "description": "A description for 'sortByOfferDate'"
+  },
+  {
+    "name": "addMortgageUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'addMortgageUrl'"
+  },
+  {
+    "name": "sortByOfferDate",
+    "type": "java.lang.String",
+    "description": "A description for 'sortByOfferDate'"
+  },
+  {
+    "name": "sortByOfferDate",
+    "type": "java.lang.String",
+    "description": "A description for 'sortByOfferDate'"
+  },
+  {
+    "name": "sortByOfferDate",
+    "type": "java.lang.String",
+    "description": "A description for 'sortByOfferDate'"
+  },
+  {
+    "name": "addMortgageUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'addMortgageUrl'"
+  }
+]}
